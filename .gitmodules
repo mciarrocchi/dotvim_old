@@ -6,7 +6,7 @@
 	url = https://github.com/vim-scripts/taglist.vim.git
 [submodule "bundle/supertab"]
 	path = bundle/supertab
-	url = https://github.com/vim-scripts/SuperTab-continued..git
+	url = https://github.com/ervandew/supertab.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = https://github.com/vim-scripts/The-NERD-tree.git
+	url = https://github.com/scrooloose/nerdtree.git
