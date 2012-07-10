@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/marcos/Desktop/Python for Unix and Linux System Administration'
+let g:netrw_dirhist_2='/home/marcos/Desktop'
+let g:netrw_dirhist_3='/home/marcos'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_5='/'
+let g:netrw_dirhist_6='/home/marcos/Desktop/python/pythonchallenge/channel'
+let g:netrw_dirhist_7='/home/marcos/Dropbox/Active/Tesis/Simulator/grafi_RWA'
+let g:netrw_dirhist_8='/home/marcos/.vim'
