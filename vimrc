@@ -7,7 +7,7 @@ let g:solarized_termcolors=256
 let g:solarized_contrast="high"
 let g:solarized_visibility="high"
 colorscheme solarized
-export TERM="xterm-256color"
+
 syntax on
 set mouse=a
 set mousemodel=extend
